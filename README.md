@@ -1,0 +1,1 @@
+It's a demo application which update wifi connection every 8 minutes later.

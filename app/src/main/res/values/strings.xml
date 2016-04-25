@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiSword</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_start">Start wifi monitor: The wifi opening status keeps being swept every 5 minutes</string>
+    <string name="description_stop">Close wifi monitor</string>
+    <string name="btn1">Start Wifi Monitor</string>
+    <string name="btn2">Stop Wifi Monitor</string>
+    <string name="toast_open">enable wifi every 5 minutes</string>
+    <string name="toast_close">stop wifi</string>
+    <string name="ticker">wifi disabled</string>
+
+</resources>
